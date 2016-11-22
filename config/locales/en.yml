@@ -24,5 +24,37 @@ en:
 en:
   layouts:
     application:
-      title: "Brs41"
+      line: "Bookstore"
 
+    _footer:
+      information: "Information"
+      about: "About Us"
+      contact: "Contact Us"
+      my_account: "My Account"
+      sign_in: "Sign In"
+      help: "Help"
+      follow: "Follow Us"
+      facebook: "Facebook"
+      twitter: "Twitter"
+
+    _header:
+      welcome: "Welcome to Book Review System"
+      home: "Home"
+      book_store: "Book Store"
+      wishlist: "My Wishlist"
+      checkout: "Checkout"
+      search: "Search"
+
+    _sidebar:
+      task: "TASK"
+      category: "Category"
+      add_cate: "Add Cate"
+      list_cate: "List Cate"
+      books: "Books"
+      add_books: "Add Book"
+      view_books: "View Book"
+      view_request: "View Request"
+      business: "Business"
+      children's: "Children's"
+      used: "Used"
+      aout_of_print: " out of print"
